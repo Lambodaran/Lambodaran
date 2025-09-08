@@ -47,3 +47,10 @@
 - 💻 GitHub: [github.com/Lambodaran](https://github.com/Lambodaran)  
 
 ---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Lambodaran/Lambodaran/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
