@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Lambodaran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lambodaran+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase" alt="Hi there! I'm Lambodaran Vinayagamurthi" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Lambodaran%20V.&fontSize=80&desc=Aspiring%20Full-Stack%20Developer&descAlignY=65&descAlign=60" alt="Header Banner"/>
 </div>
 
 ---
