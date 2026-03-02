@@ -1,0 +1,20 @@
+name: Make Chess Move
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  make-move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Calculate chess move from commit
+        run: |
+          COMMIT_HASH=${{ github.sha }}
+          # Script to convert commit hash to chess move
+          echo "Making move based on $COMMIT_HASH"
+      - name: Update chess board
+        run: |
+          git add assets/chess-match.svg
+          git commit -m "Update chess match" || exit 0
+          git push
