@@ -1,45 +1,46 @@
 <div align="center">
   
-  <!-- System Player Status Window - Animated Gaming Interface -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2D84C7,043263&height=200&section=header&text=V.%20Lambodaran&fontSize=80&descAlignY=65&descAlign=60" alt="Animated Gradient Banner"/>
-  
-  <!-- System Player Status Window -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;React+%7C+Python+%7C+Firebase;Problem+Solver+%26+Lifelong+Learner" alt="Typing Animation"/>
-  </div>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2D84C7,043263&height=150&section=header&text=V.%20Lambodaran&fontSize=60&descAlignY=65&descAlign=60" alt="Animated Gradient Banner"/>
   
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D84C7&center=true&vCenter=true&width=450&lines=Aspiring+Full-Stack+Developer;React+%7C+Python+%7C+Firebase;Problem+Solver+%26+Lifelong+Learner" alt="Typing Animation"/>
+  
+  <br/><br/>
+
+  <!-- Three Animations in Row (Side by Side) -->
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/Lambodaran">
+          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/system-status.svg" alt="System Player Status" width="95%"/>
+        </a>
+        <br/>
+        <sub><i>⚡ Gaming Interface • Updates daily</i></sub>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/Lambodaran">
+          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="95%"/>
+        </a>
+        <br/>
+        <sub><i>♜ Code-driven Chess • Commit = Move</i></sub>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/Lambodaran">
+          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="95%"/>
+        </a>
+        <br/>
+        <sub><i>🧬 Neural Activity • Based on languages</i></sub>
+      </td>
+    </tr>
+  </table>
+
+  <!-- System Status Line -->
   <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=2D84C7&center=true&vCenter=true&width=400&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
   
-  <!-- 🎮 SYSTEM PLAYER STATUS WINDOW -->
-  <div align="center">
-    <a href="https://github.com/Lambodaran">
-      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/system-status.svg" alt="System Player Status" width="90%"/>
-    </a>
-    <br/>
-    <sub><i>⚡ Developer stats rendered as a live gaming interface • Updates daily via GitHub Actions</i></sub>
-  </div>
-  
-  <br/>
-  
-  <!-- ♟️ DAILY AUTOMATED CHESS MATCH -->
-  <div align="center">
-    <a href="https://github.com/Lambodaran">
-      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="90%"/>
-    </a>
-    <br/>
-    <sub><i>♜ Code-driven chess • Each commit makes a move • Powered by commit hashes</i></sub>
-  </div>
-  
-  <br/>
-  
-  <!-- 🧠 NEURAL NETWORK DATA FLOW -->
-  <div align="center">
-    <a href="https://github.com/Lambodaran">
-      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network Data Flow" width="90%"/>
-    </a>
-    <br/>
-    <sub><i>🧬 Live neural activity • Nodes pulse based on your coding languages & commit frequency</i></sub>
-  </div>
+</div>
   
   <br/>
   
