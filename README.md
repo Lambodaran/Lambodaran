@@ -18,16 +18,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&v=1" alt="GitHub Trophies"/>
 </p>
-
-> **Note:** Trophies are generated based on your GitHub activity. If you don't see any trophies yet, they will appear as you:
-> - Create more repositories
-> - Gain stars on your projects
-> - Get followers
-> - Make more contributions
 
 ---
 
@@ -68,7 +60,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   
 </div>
@@ -80,31 +72,74 @@
 <div align="center">
   
   ### 📈 Stats Overview
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambodaran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambodaran&theme=radical&hide_border=true" />
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Lambodaran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=2" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lambodaran&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
   
   <br/>
   
   ### 📊 Contribution Details
   
-  | | |
-  |:---:|:---:|
-  | **Total Contributions** | 210 |
-  | **Contribution Period** | Feb 23, 2024 - Present |
-  | **Current Streak** | 0 days |
-  | **Longest Streak** | 9 days |
-  | **Longest Streak Period** | Jul 22, 2025 - Jul 30, 2025 |
-  | **Last Contribution** | Mar 2, 2026 |
+  <table align="center">
+    <tr>
+      <th colspan="2">📋 Contribution Overview</th>
+    </tr>
+    <tr>
+      <td align="right"><strong>Total Contributions:</strong></td>
+      <td align="left">210</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Contribution Period:</strong></td>
+      <td align="left">Feb 23, 2024 - Present</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Current Streak:</strong></td>
+      <td align="left">0 days (Last: Mar 2, 2026)</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Longest Streak:</strong></td>
+      <td align="left">9 days (Jul 22, 2025 - Jul 30, 2025)</td>
+    </tr>
+  </table>
   
   <br/>
   
   ### 💻 Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambodaran&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambodaran&layout=compact&langs_count=8&theme=radical&hide_border=true&v=2" alt="Top Languages" />
+  
+  <br/>
+  <br/>
+  
+  ### 📅 Contribution Graph (3D)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambodaran&theme=radical&bg_color=0d1117&color=2D84C7&line=2D84C7&point=043263&area=true&hide_border=true&v=1" width="100%" alt="Contribution Activity Graph"/>
   
   <br/>
   
-  ### 📅 Contribution Calendar
+  ### 📆 Contribution Calendar (2026)
   <img src="https://ghchart.rshah.org/2D84C7/Lambodaran" alt="Lambodaran's GitHub Contribution Chart" width="100%" />
+  
+  <br/>
+  
+  ### 🔥 Contribution Heatmap
+  <img src="https://streak-stats.demolab.com?user=Lambodaran&theme=radical&hide_border=true&v=1" alt="GitHub Streak Stats" />
+  
+  <br/>
+  
+  ### 📊 Detailed Contribution Timeline
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Lambodaran&v=1" alt="Contribution Stats" width="100%"/>
+  
+  <br/>
+  
+  ### 📈 Contribution Graph (Alternative)
+  <img src="https://activity-graph.herokuapp.com/graph?username=Lambodaran&theme=radical&bg_color=0d1117&color=2D84C7&line=2D84C7&point=043263&area=true&hide_border=true&v=1" width="100%" alt="Alternative Contribution Graph"/>
   
 </div>
 
@@ -128,7 +163,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lambodaran&color=2D84C7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Lambodaran&color=2D84C7&style=flat-square&label=Profile+Views&v=1" />
   <img src="https://img.shields.io/github/followers/Lambodaran?style=social" />
   <img src="https://img.shields.io/github/stars/Lambodaran?style=social" />
 </p>
@@ -138,13 +173,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/output/github-contribution-grid-snake.svg?v=1" alt="snake animation" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:043263,2D84C7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:043263,2D84C7&height=100&section=footer&v=1" />
   
   ### ⭐ Thanks for visiting my profile! ⭐
 </div>
