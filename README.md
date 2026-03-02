@@ -43,7 +43,7 @@
   <!-- System Status Line - Fixed Width -->
   <br/>
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=300&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=600&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
   </div>
   
   <br/>
@@ -52,7 +52,7 @@
   <br/>
   
   <a href="https://github.com/Lambodaran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=System+Online...+Neural+Network+Active...+Chess+Game+In+Progress..." alt="System Status"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=800&lines=System+Online...+Neural+Network+Active...+Chess+Game+In+Progress..." alt="System Status"/>
   </a>
   
 </div>
