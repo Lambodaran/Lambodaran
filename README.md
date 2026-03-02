@@ -32,19 +32,19 @@
 <br/>
 
 <!-- 🧬 Neural Section -->
-<div align="center" height="100%">
+<div align="center">
   <a href="https://github.com/Lambodaran">
-    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="175% />
+    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="90%" height="400px" style="max-width: 1200px;"/>
   </a>
   <br/>
   <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
 </div>
 
-  <!-- System Status Line - Fixed Width -->
-  <br/>
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=600&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
-  </div>
+<!-- System Status Line - Fixed Width -->
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2D84C7&center=true&vCenter=true&width=900&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
+</div>
   
   <br/>
 </div>
