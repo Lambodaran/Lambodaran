@@ -30,11 +30,10 @@
 </div>
 
 <br/>
-
 <!-- 🧬 Neural Section -->
-<div align="center" style="width: 100%; overflow: visible;">
+<div align="center">
   <a href="https://github.com/Lambodaran">
-    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="1500px" height="600px" />
+    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="1200" height="500" />
   </a>
   <br/>
   <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
