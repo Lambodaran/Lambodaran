@@ -1,8 +1,52 @@
 <div align="center">
+  
+  <!-- System Player Status Window - Animated Gaming Interface -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2D84C7,043263&height=200&section=header&text=V.%20Lambodaran&fontSize=80&descAlignY=65&descAlign=60" alt="Animated Gradient Banner"/>
-  <a href="https://github.com/Lambodaran">
+  
+  <!-- System Player Status Window -->
+  <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;React+%7C+Python+%7C+Firebase;Problem+Solver+%26+Lifelong+Learner" alt="Typing Animation"/>
+  </div>
+  
+  <br/>
+  
+  <!-- 🎮 SYSTEM PLAYER STATUS WINDOW -->
+  <div align="center">
+    <a href="https://github.com/Lambodaran">
+      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/system-status.svg" alt="System Player Status" width="90%"/>
+    </a>
+    <br/>
+    <sub><i>⚡ Developer stats rendered as a live gaming interface • Updates daily via GitHub Actions</i></sub>
+  </div>
+  
+  <br/>
+  
+  <!-- ♟️ DAILY AUTOMATED CHESS MATCH -->
+  <div align="center">
+    <a href="https://github.com/Lambodaran">
+      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="90%"/>
+    </a>
+    <br/>
+    <sub><i>♜ Code-driven chess • Each commit makes a move • Powered by commit hashes</i></sub>
+  </div>
+  
+  <br/>
+  
+  <!-- 🧠 NEURAL NETWORK DATA FLOW -->
+  <div align="center">
+    <a href="https://github.com/Lambodaran">
+      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network Data Flow" width="90%"/>
+    </a>
+    <br/>
+    <sub><i>🧬 Live neural activity • Nodes pulse based on your coding languages & commit frequency</i></sub>
+  </div>
+  
+  <br/>
+  
+  <a href="https://github.com/Lambodaran">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=System+Online...+Neural+Network+Active...+Chess+Game+In+Progress..." alt="System Status"/>
   </a>
+  
 </div>
 
 ---
@@ -118,28 +162,13 @@
   <br/>
   <br/>
   
-  ### 📅 Contribution Graph (3D)
+  ### 📅 Contribution Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambodaran&theme=radical&bg_color=0d1117&color=2D84C7&line=2D84C7&point=043263&area=true&hide_border=true&v=1" width="100%" alt="Contribution Activity Graph"/>
   
   <br/>
   
-  ### 📆 Contribution Calendar (2026)
+  ### 📆 Contribution Calendar
   <img src="https://ghchart.rshah.org/2D84C7/Lambodaran" alt="Lambodaran's GitHub Contribution Chart" width="100%" />
-  
-  <br/>
-  
-  ### 🔥 Contribution Heatmap
-  <img src="https://streak-stats.demolab.com?user=Lambodaran&theme=radical&hide_border=true&v=1" alt="GitHub Streak Stats" />
-  
-  <br/>
-  
-  ### 📊 Detailed Contribution Timeline
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Lambodaran&v=1" alt="Contribution Stats" width="100%"/>
-  
-  <br/>
-  
-  ### 📈 Contribution Graph (Alternative)
-  <img src="https://activity-graph.herokuapp.com/graph?username=Lambodaran&theme=radical&bg_color=0d1117&color=2D84C7&line=2D84C7&point=043263&area=true&hide_border=true&v=1" width="100%" alt="Alternative Contribution Graph"/>
   
 </div>
 
@@ -178,8 +207,21 @@
 
 ---
 
+### ⚙️ GitHub Actions Automation Status
+<p align="center">
+  <img src="https://github.com/Lambodaran/Lambodaran/actions/workflows/update-stats.yml/badge.svg" alt="Update Stats"/>
+  <img src="https://github.com/Lambodaran/Lambodaran/actions/workflows/chess-move.yml/badge.svg" alt="Chess Move"/>
+  <img src="https://github.com/Lambodaran/Lambodaran/actions/workflows/neural-update.yml/badge.svg" alt="Neural Update"/>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:043263,2D84C7&height=100&section=footer&v=1" />
   
   ### ⭐ Thanks for visiting my profile! ⭐
+  
+  <!-- System Status Indicators -->
+  <sub>
+    🟢 System Player • ♟️ Chess Engine • 🧠 Neural Network<br/>
+    <i>All systems operational • Updated in real-time via GitHub Actions</i>
+  </sub>
 </div>
