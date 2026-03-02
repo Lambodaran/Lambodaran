@@ -1,0 +1,21 @@
+<svg width="3800" height="1800" viewBox="0 0 3800 1800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="3800" height="1800" fill="#0d1117"/>
+  <circle cx="800" cy="400" r="60" fill="#2D84C7"/>
+  <circle cx="800" cy="600" r="60" fill="#2D84C7"/>
+  <circle cx="800" cy="800" r="60" fill="#2D84C7"/>
+  <circle cx="1400" cy="200" r="60" fill="#2D84C7"/>
+  <circle cx="1400" cy="450" r="60" fill="#2D84C7"/>
+  <circle cx="1400" cy="700" r="60" fill="#2D84C7"/>
+  <circle cx="1400" cy="950" r="60" fill="#2D84C7"/>
+  <circle cx="2000" cy="200" r="60" fill="#2D84C7"/>
+  <circle cx="2000" cy="450" r="60" fill="#2D84C7"/>
+  <circle cx="2000" cy="700" r="60" fill="#2D84C7"/>
+  <circle cx="2000" cy="950" r="60" fill="#2D84C7"/>
+  <circle cx="2600" cy="450" r="60" fill="#2D84C7"/>
+  <circle cx="2600" cy="700" r="60" fill="#2D84C7"/>
+  <text x="2800" y="500" font-family="Arial" font-size="60" fill="#2D84C7" font-weight="bold">Processing: Python 47%</text>
+  <text x="2800" y="600" font-family="Arial" font-size="54" fill="#8b949e">JavaScript 32%</text>
+  <text x="2800" y="700" font-family="Arial" font-size="54" fill="#8b949e">Java 21%</text>
+  <text x="1900" y="1300" font-family="Arial" font-size="72" fill="#2D84C7" text-anchor="middle" font-weight="bold">⚡ Neural Activity: HIGH ⚡</text>
+  <text x="1900" y="1600" font-family="Arial" font-size="40" fill="#2D84C7" text-anchor="middle">🧬 Based on languages & commit frequency</text>
+</svg>
