@@ -17,7 +17,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=onedark&margin-w=10&margin-h=10&column=7&no-cache=1" alt="GitHub Trophies" />
 </p>
 ---
 
