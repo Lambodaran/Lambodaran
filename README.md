@@ -20,25 +20,25 @@
   
   <br/>
 
- <!-- ♜ Chess and 🧬 Neural - Side by Side -->
-  <table align="center" width="100%">
-    <tr>
-      <td width="25%" align="center" valign="top">
-        <a href="https://github.com/Lambodaran">
-          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="95%"/>
-        </a>
-        <br/>
-        <sub><b>♜ Code-driven Chess • Commit = Move</b></sub>
-      </td>
-      <td width="75%" align="center" valign="top">
-        <a href="https://github.com/Lambodaran">
-          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="100%"/>
-        </a>
-        <br/>
-        <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
-      </td>
-    </tr>
-  </table>
+<!-- ♜ Chess Section -->
+<div align="center">
+  <a href="https://github.com/Lambodaran">
+    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="70%"/>
+  </a>
+  <br/>
+  <sub><b>♜ Code-driven Chess • Commit = Move</b></sub>
+</div>
+
+<br/>
+
+<!-- 🧬 Neural Section -->
+<div align="center">
+  <a href="https://github.com/Lambodaran">
+    <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="70%"/>
+  </a>
+  <br/>
+  <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
+</div>
 
   <!-- System Status Line - Fixed Width -->
   <br/>
