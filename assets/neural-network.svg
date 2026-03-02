@@ -13,19 +13,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background - now covers entire new dimensions -->
+  <!-- Background -->
   <rect width="3800" height="1000" fill="#0d1117"/>
   
-  <!-- Neural Network Layers - Scaled up and repositioned -->
-  <g transform="translate(500,200) scale(2.5)">
-    <!-- Layer 1 - Input Layer (3 nodes) -->
+  <!-- Neural Network Layers - Scaled up -->
+  <g transform="translate(600,150) scale(2.8)">
+    <!-- Layer 1 - Input Layer -->
     <g class="layer" data-layer="1">
       <circle cx="50" cy="100" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
       <circle cx="50" cy="160" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
       <circle cx="50" cy="220" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
     </g>
     
-    <!-- Layer 2 - Hidden Layer (4 nodes) -->
+    <!-- Layer 2 - Hidden Layer -->
     <g class="layer" data-layer="2">
       <circle cx="200" cy="70" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
       <circle cx="200" cy="130" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
@@ -33,7 +33,7 @@
       <circle cx="200" cy="250" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
     </g>
     
-    <!-- Layer 3 - Hidden Layer (4 nodes) -->
+    <!-- Layer 3 - Hidden Layer -->
     <g class="layer" data-layer="3">
       <circle cx="350" cy="70" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
       <circle cx="350" cy="130" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
@@ -41,19 +41,18 @@
       <circle cx="350" cy="250" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
     </g>
     
-    <!-- Layer 4 - Output Layer (2 nodes) -->
+    <!-- Layer 4 - Output Layer -->
     <g class="layer" data-layer="4">
       <circle cx="500" cy="130" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
       <circle cx="500" cy="190" r="15" fill="url(#node-gradient)" filter="url(#neural-glow)"/>
     </g>
     
-    <!-- Connections between layers with animated data flow -->
-    <!-- Layer 1 to Layer 2 connections -->
+    <!-- Connections -->
     <line x1="65" y1="100" x2="185" y2="70" stroke="#2D84C7" stroke-width="2" opacity="0.3"/>
     <line x1="65" y1="160" x2="185" y2="130" stroke="#2D84C7" stroke-width="2" opacity="0.3"/>
     <line x1="65" y1="220" x2="185" y2="190" stroke="#2D84C7" stroke-width="2" opacity="0.3"/>
     
-    <!-- Animated data particles - scaled up -->
+    <!-- Animated particles -->
     <circle r="8" fill="#fff" filter="url(#neural-glow)">
       <animateMotion dur="3s" repeatCount="indefinite" path="M65,100 L185,70"/>
     </circle>
@@ -64,36 +63,34 @@
       <animateMotion dur="3.5s" repeatCount="indefinite" path="M65,220 L185,190"/>
     </circle>
     
-    <!-- Layer 2 to Layer 3 connections -->
     <line x1="215" y1="70" x2="335" y2="70" stroke="#043263" stroke-width="2" opacity="0.3"/>
     <line x1="215" y1="130" x2="335" y2="130" stroke="#043263" stroke-width="2" opacity="0.3"/>
     
-    <!-- More animated particles -->
     <circle r="6" fill="#2D84C7">
       <animateMotion dur="2s" repeatCount="indefinite" path="M215,70 L335,70"/>
     </circle>
   </g>
   
-  <!-- Status text - Repositioned for new dimensions with larger font -->
-  <text x="1800" y="500" font-family="monospace" font-size="36" fill="#2D84C7" font-weight="bold">
+  <!-- Status Text - Large and clearly visible -->
+  <text x="2000" y="450" font-family="monospace" font-size="48" fill="#2D84C7" font-weight="bold">
     Processing: Python 47%
     <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
   </text>
-  <text x="1800" y="570" font-family="monospace" font-size="32" fill="#8b949e">
+  <text x="2000" y="530" font-family="monospace" font-size="42" fill="#8b949e">
     JavaScript 32%
   </text>
-  <text x="1800" y="640" font-family="monospace" font-size="32" fill="#8b949e">
+  <text x="2000" y="610" font-family="monospace" font-size="42" fill="#8b949e">
     Java 21%
   </text>
   
-  <!-- Neural activity indicator - Larger and repositioned -->
-  <text x="1900" y="800" font-family="monospace" font-size="42" fill="#2D84C7" text-anchor="middle" font-weight="bold">
+  <!-- Neural Activity - Large and centered -->
+  <text x="1900" y="750" font-family="monospace" font-size="54" fill="#2D84C7" text-anchor="middle" font-weight="bold">
     ⚡ Neural Activity: HIGH ⚡
     <animate attributeName="fill" values="#2D84C7;#043263;#2D84C7" dur="3s" repeatCount="indefinite"/>
   </text>
   
-  <!-- Add some spacing at bottom -->
-  <text x="1900" y="950" font-family="monospace" font-size="24" fill="#2D84C7" text-anchor="middle" opacity="0.7">
+  <!-- Bottom description -->
+  <text x="1900" y="900" font-family="monospace" font-size="28" fill="#2D84C7" text-anchor="middle" opacity="0.8">
     • Based on languages & commit frequency •
   </text>
 </svg>
