@@ -1,0 +1,24 @@
+name: Update System Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
+  push:
+    branches: [ main ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update system stats
+        run: |
+          # Script to calculate EXP and level from GitHub API
+          echo "Updating system stats..."
+          # Add your Python/Node.js script here
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add assets/system-status.svg
+          git commit -m "Update system stats" || exit 0
+          git push
