@@ -1,6 +1,6 @@
 <div align="center">
   
-  <div align="center">
+ <div align="center">
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2D84C7,043263&height=150&section=header&text=V.%20Lambodaran&fontSize=60&descAlignY=65&descAlign=60" alt="Animated Gradient Banner"/>
   
@@ -9,37 +9,44 @@
   
   <br/><br/>
 
-  <!-- Three Animations in Row (Side by Side) -->
-  <table>
+  <!-- ⚡ Gaming Interface - Full Width Top -->
+  <div align="center">
+    <a href="https://github.com/Lambodaran">
+      <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/system-status.svg" alt="System Player Status" width="70%"/>
+    </a>
+    <br/>
+    <sub><b>⚡ Gaming Interface • Updates daily</b></sub>
+  </div>
+  
+  <br/>
+
+  <!-- ♜ Chess and 🧬 Neural - Side by Side -->
+  <table align="center" width="90%">
     <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/Lambodaran">
-          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/system-status.svg" alt="System Player Status" width="95%"/>
-        </a>
-        <br/>
-        <sub><i>⚡ Gaming Interface • Updates daily</i></sub>
-      </td>
-      <td width="33%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
           <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="95%"/>
         </a>
         <br/>
-        <sub><i>♜ Code-driven Chess • Commit = Move</i></sub>
+        <sub><b>♜ Code-driven Chess • Commit = Move</b></sub>
       </td>
-      <td width="33%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
           <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="95%"/>
         </a>
         <br/>
-        <sub><i>🧬 Neural Activity • Based on languages</i></sub>
+        <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
       </td>
     </tr>
   </table>
 
-  <!-- System Status Line -->
+  <!-- System Status Line - Fixed Width -->
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=2D84C7&center=true&vCenter=true&width=400&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2D84C7&center=true&vCenter=true&width=600&lines=🟢+System+Online+•+♟️+Chess+Active+•+🧠+Neural+Network+Running" alt="System Status"/>
+  </div>
   
+  <br/>
 </div>
   
   <br/>
