@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Featured Projects
+[### 💻 Featured Projects
 
 <table align="center">
   <tr>
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
----
+---](url)
 
 ### 📊 GitHub Stats
 <div align="center">
