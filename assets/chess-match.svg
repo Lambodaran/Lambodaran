@@ -1,0 +1,73 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="chess-glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#0d1117"/>
+  
+  <!-- Chess board background -->
+  <rect x="100" y="50" width="400" height="400" fill="#2D84C7" opacity="0.1" rx="10"/>
+  
+  <!-- Chess board grid -->
+  <g transform="translate(120,70)">
+    <!-- Create 8x8 board -->
+    <g id="board">
+      <!-- Black squares -->
+      <rect x="0" y="0" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="90" y="0" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="180" y="0" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="270" y="0" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      
+      <rect x="45" y="45" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="135" y="45" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="225" y="45" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      <rect x="315" y="45" width="45" height="45" fill="#2D84C7" opacity="0.3"/>
+      
+      <!-- White squares (transparent) -->
+      <rect x="45" y="0" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="135" y="0" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="225" y="0" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="315" y="0" width="45" height="45" fill="#043263" opacity="0.3"/>
+      
+      <rect x="0" y="45" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="90" y="45" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="180" y="45" width="45" height="45" fill="#043263" opacity="0.3"/>
+      <rect x="270" y="45" width="45" height="45" fill="#043263" opacity="0.3"/>
+    </g>
+    
+    <!-- Animated pieces (example positions) -->
+    <g id="pieces">
+      <!-- White King (moving piece) -->
+      <circle cx="180" cy="90" r="15" fill="#fff" filter="url(#chess-glow)">
+        <animate attributeName="cx" values="180;225;180" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;135;90" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="180" y="95" font-size="20" text-anchor="middle" fill="#000" font-weight="bold">♔</text>
+      
+      <!-- Black Queen -->
+      <circle cx="45" cy="45" r="15" fill="#043263" filter="url(#chess-glow)"/>
+      <text x="45" y="50" font-size="20" text-anchor="middle" fill="#fff" font-weight="bold">♛</text>
+      
+      <!-- White Pawn -->
+      <circle cx="315" cy="0" r="12" fill="#2D84C7" filter="url(#chess-glow)"/>
+      <text x="315" y="5" font-size="16" text-anchor="middle" fill="#fff">♙</text>
+    </g>
+  </g>
+  
+  <!-- Game status -->
+  <text x="300" y="340" font-family="monospace" font-size="16" fill="#2D84C7" text-anchor="middle">
+    Move 24: White to play
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="300" y="370" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">
+    Commit: a1b2c3d4 • Daily automated match
+  </text>
+</svg>
