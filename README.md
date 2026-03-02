@@ -21,7 +21,7 @@
   <br/>
 
   <!-- ♜ Chess and 🧬 Neural - Side by Side -->
-  <table align="center" width="90%">
+  <table align="center" width="90%" height="100%">
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
