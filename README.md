@@ -20,19 +20,19 @@
   
   <br/>
 
-  <!-- ♜ Chess and 🧬 Neural - Side by Side -->
-  <table align="center" width="200%">
+ <!-- ♜ Chess and 🧬 Neural - Side by Side -->
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="45%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
           <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/chess-match.svg" alt="Daily Chess Match" width="95%"/>
         </a>
         <br/>
         <sub><b>♜ Code-driven Chess • Commit = Move</b></sub>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="55%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
-          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="100%" height="100%"/>
+          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="100%"/>
         </a>
         <br/>
         <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
