@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2D84C7,043263&height=200&section=header&text=V.%20Lambodaran&fontSize=80&descAlignY=65&descAlign=60" alt="Animated Gradient Banner"/>
   <a href="https://github.com/Lambodaran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;Problem+Solver+%26+Lifelong+Learner" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D84C7&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;React+%7C+Python+%7C+Firebase;Problem+Solver+%26+Lifelong+Learner" alt="Typing Animation"/>
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 I'm a **Software Engineering Undergraduate** at the *University of Bedfordshire (SLIIT Northern Uni)*.
 - 💻 I'm an **Aspiring Full-Stack Developer** passionate about building interactive and user-friendly applications.
-- 🌱 I'm currently focused on improving my skills in **React**, **Node.js**, and **Firebase**.
+- 🌱 I'm currently focused on improving my skills in **React**, **Python**, and **Firebase**.
 - 🔬 Working on **Deep Learning Deepfake Detection** as a research project.
 - ⚡ In my free time, I enjoy solving problems on LeetCode, exploring new technologies, and building creative side projects.
 
@@ -18,128 +18,90 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lambodaran&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
-> **Note:** Trophies are generated based on your GitHub activity. They will appear once you have contributions, stars, followers, and repositories.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+<div align="center">
+  
+  ### 🎨 Frontend Development
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"/>
+  
+  <br/>
+  <br/>
 
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+  ### ⚙️ Backend Development
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/jnDKffwdCf3Op39cim/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/TEnUxN3mRKsxz5DZW5/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/>
+  
+  <br/>
+  <br/>
 
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+  ### 🗄️ Databases & Cloud
+  <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/kHZ6xCVWhCLWafjxk7/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"/>
+  
+  <br/>
+  <br/>
 
-### 🔧 Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
-
----
-
-## 💻 Featured Projects
-
-### 🚀 Web Development Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">TaskFlow - Project Management</h3>
-      <p>A full-stack task management application with real-time updates, user authentication, and collaborative features. Built with modern web technologies for seamless team collaboration.</p>
-      <p align="center">
-        <strong>React · Node.js · MongoDB · Tailwind</strong>
-      </p>
-      <p align="center">
-        <a href="#">📁 Repo</a> | <a href="#">🚀 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">WeatherWise App</h3>
-      <p>Beautiful weather application providing real-time data, 7-day forecasts, and interactive maps. Features location search and favorite cities storage.</p>
-      <p align="center">
-        <strong>JavaScript · HTML5 · CSS3 · OpenWeather API</strong>
-      </p>
-      <p align="center">
-        <a href="#">📁 Repo</a> | <a href="#">🚀 Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🤖 AI & Research Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Deepfake Detection System</h3>
-      <p>Research-oriented deep learning system for identifying manipulated media. Uses CNN architectures to analyze video and image artifacts for authenticity verification.</p>
-      <p align="center">
-        <strong>Python · TensorFlow · OpenCV · Deep Learning</strong>
-      </p>
-      <p align="center">
-        <a href="#">📁 Repo</a> | <a href="#">📄 Paper</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio v2</h3>
-      <p>Modern developer portfolio with smooth animations, dark mode, and responsive design. Showcases projects, skills, and professional journey.</p>
-      <p align="center">
-        <strong>React · Framer Motion · Styled Components</strong>
-      </p>
-      <p align="center">
-        <a href="#">📁 Repo</a> | <a href="#">🚀 Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+  ### 🔧 Tools & Technologies
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/>
+  
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+  ### 📈 Stats Overview
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambodaran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambodaran&theme=radical&hide_border=true" />
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambodaran&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</div>
-
-### 📈 Contribution Breakdown
-<div align="center">
   
-  | 🔥 Streak Stats | 📊 Contribution Stats |
+  <br/>
+  
+  ### 📊 Contribution Details
+  
+  | Metric | Value |
   |:---:|:---:|
-  | **Current Streak:** 0 days | **Total Contributions:** 210 |
-  | **Longest Streak:** 9 days | **Period:** Feb 2024 - Present |
-  | **Last Contribution:** Mar 2, 2026 | **Repositories:** [View All](https://github.com/Lambodaran?tab=repositories) |
+  | **Total Contributions** | 210 |
+  | **Contribution Period** | Feb 23, 2024 - Present |
+  | **Current Streak** | 0 days |
+  | **Longest Streak** | 9 days (Jul 22, 2025 - Jul 30, 2025) |
+  | **Last Contribution** | Mar 2, 2026 |
+  
+  <br/>
+  
+  ### 💻 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambodaran&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  
+  <br/>
+  
+  ### 📅 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambodaran&theme=radical&bg_color=0d1117&color=2D84C7&line=2D84C7&point=043263&area=true&hide_border=true" width="100%"/>
+  
+  <br/>
+  
+  ### 🔥 Contribution Calendar
+  <img src="https://ghchart.rshah.org/2D84C7/Lambodaran" alt="Lambodaran's GitHub Contribution Chart" width="100%"/>
   
 </div>
 
@@ -170,7 +132,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -181,7 +143,7 @@
 ### 📌 Recent Activity
 <!-- This section will auto-update with your recent GitHub activity -->
 - 🔭 Working on improving my full-stack development skills
-- 🌱 Learning advanced React patterns and Node.js optimization
+- 🌱 Learning advanced React patterns and Python optimization
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about web development, deep learning, or anything tech-related
 
