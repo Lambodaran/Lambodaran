@@ -32,7 +32,7 @@
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Lambodaran">
-          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="125%" height="100%"/>
+          <img src="https://raw.githubusercontent.com/Lambodaran/Lambodaran/main/assets/neural-network.svg" alt="Neural Network" width="200%" height="100%"/>
         </a>
         <br/>
         <sub><b>🧬 Neural Activity • Based on languages & commit frequency</b></sub>
